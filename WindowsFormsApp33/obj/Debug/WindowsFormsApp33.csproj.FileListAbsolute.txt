@@ -1,0 +1,11 @@
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.AssemblyReference.cache
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.CoreCompileInputs.cache
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb
+C:\Users\koncz\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe.config
